@@ -1,2 +1,2 @@
 // declare your functions here...
-let paragraphSelector = () => ({$('p')});
+let paragraphSelector = () => ($('p'));
